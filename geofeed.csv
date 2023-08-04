@@ -1,10 +1,13 @@
 # Published at https://mysite.public/geofeed.csv
 # ip_prefix,alpha2code,region,city,postal_code
-91.227.149.0/24,RU,RU-MOW,Moscow,123458,
-2a06:a005:780:/48,KG,KG-KG,Toronto,,
-2a06:a005:781:/48,KZ,KZ-KZ,rg,,
-2a06:a005:784:/48,RU,RU-KLU,Nedelnoe,249073,
-2a06:a005:786:/48,RU,RU-SVE,Yekaterinburg,623700,
-2a06:a005:787:/48,RU,RU-MOW,Moscow,123181,
-2a06:a005:788:/48,RU,RU-SPE,Saint Petersburg,,
-2a06:a005:784:/48,RU,RU-KLU,Nedelnoe,,
+91.227.149.0/24,RU,RU-MOW,Moscow,123181,
+2a06:a005:780::/48,KG,KG-KG,Toronto,
+2a06:a005:781::/48,KZ,KZ-KZ,rg,
+2a06:a005:783::/48,RU,RU-DAG,Mahachkala,
+2a06:a005:784::/48,RU,RU-KLU,Nedelnoe,249073
+2a06:a005:786::/48,RU,RU-SVE,Berezovskiy,623700
+2a06:a005:787::/48,RU,RU-MOW,Moscow,123181
+2a06:a005:788::/48,RU,RU-SPE,Saint Petersburg,
+2a06:a005:789::/48,RU,RU-YEV,Birobijan,
+2a06:a005:78a::/48,IN,IN-HR,Gurgaon,
+2a06:a005:78b::/48,US,US-NY,New York,
